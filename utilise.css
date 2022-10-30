@@ -2,8 +2,8 @@
 	text-align: center;
 }
 
-.bg-red {
-	background: red;
+.bg {
+	background: #36454F;
 }
 
 .mx-auto{
@@ -21,4 +21,3 @@ flex-direction: column;
 .items-center{
 	align-items: center;
 }
-
